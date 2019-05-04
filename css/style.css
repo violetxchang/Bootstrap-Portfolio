@@ -1,0 +1,11 @@
+h1,h2,h3 {
+    font-family: Georgia, Times, Times New Roman, serif;
+}
+
+h1 {
+    padding-top: 0;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #ccc;
+    color: #4aaaa5;
+    text-align: left;
+}
